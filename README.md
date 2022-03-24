@@ -2,6 +2,29 @@
 <h3 align="center">A passionate full-stack developer from Brasil</h3>
 
 - 🌱 I’m currently learning **.NET//C#//REACT**
+  .progress{
+    height: 15px;
+    background-color: #777;
+    position: relative;
+}
+
+.progress .progress-bar{
+   position: absolute;
+   height: 100%;
+   background-color: #add555;
+   animation: progress-animation 6s infinite;
+}
+
+
+@keyframes progress-animation{
+    0% { width: 0%; }
+    
+    100% { width: 100%}
+    
+}
+<div class="progress">
+    <div class="progress-bar"></div>
+</div>
 
 - 📫 How to reach me **julioconceicao.gtr@gmail.com**
 
