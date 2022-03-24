@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio! <3</h1>
 <h3 align="center">Full-stack developer 🇧🇷</h3>
+  
+  <img src="https://i.gifer.com/ZWdx.mp4" alt="loading_bar">
 
 - 🌱 I’m currently learning **.NET//C#//REACT**
 
