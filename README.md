@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio! <3</h1>
-<h3 align="center">A passionate full-stack developer from Brasil</h3>
+<h3 align="center">Full-stack developer 🇧🇷</h3>
 
 - 🌱 I’m currently learning **.NET//C#//REACT**
   .progress{
