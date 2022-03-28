@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julioconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="julioconceicao" /> </p>
 
-- 🌱 I’m currently learning **.NET//C#//REACT//BOOTSTRAP**
+- 🌱 I’m currently learning **dotNET//C#//REACT//JS**
 
 - 📫 How to reach me **julioconceicao.gtr@gmail.com**
 
