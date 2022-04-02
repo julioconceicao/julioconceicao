@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **dotNET//C#//REACT//JS**
   
--Student at **Generation Brasil**
+- Student at **Generation Brasil**
 
 - 📫 How to reach me **julioconceicao.gtr@gmail.com**
 
