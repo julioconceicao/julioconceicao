@@ -18,8 +18,8 @@
 
 <h3 align="center">Social:</h3>
 <p align="center">
-<a href="https://dev.to/juliodevconceicao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juliodevconceicao" height="30" width="40" /></a>
-<a href="https://instagram.com/julio_.gc" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="julio_.gc" height="30" width="40" /></a>
+
+<a href="https://instagram.com/julio_.gc" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="julio_.gc" height="50" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
