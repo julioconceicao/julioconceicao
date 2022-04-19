@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Julio! <3</h1>
-<h3 align="center">A passionate full-stack developer from Brasil</h3>
+<h3 align="center">A curious backend/fullstack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julioconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="julioconceicao" /> </p>
 
+- Português/English
+  
 - 🌱 I’m currently learning **dotNET//C#//REACT//JS**
   
 - 💙 Student at **Generation Brasil**
 
 - 📫 How to reach me **julioconceicao.gtr@gmail.com**
 
-- ⚡ Fun fact **I play guitar😎**
+- ⚡ I'm interested in studying Machine Learning with dotnet.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
