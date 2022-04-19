@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio! <3</h1>
-<h3 align="center">A curious backend/fullstack developer.</h3>
+<h3 align="center">I'm a curious backend/fullstack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julioconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="julioconceicao" /> </p>
 
@@ -12,6 +12,9 @@
 - 📫 How to reach me **julioconceicao.gtr@gmail.com**
 
 - ⚡ I'm interested in studying Machine Learning with dotnet.
+  
+-Soon I'll start my BA in Cience & Tecnology and BA in Computer Science at UFABC (Universidade Federal do ABC).
+(already enrolled)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
