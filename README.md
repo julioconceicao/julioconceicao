@@ -18,8 +18,8 @@
 
 <h3 align="center">Social:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/julio-césar-gonçalves-conceição-a945981ba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julio-César-Gonçalves-Conceição" height="35" width="100" /></a>
-<a href="https://instagram.com/julio_.gc" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="julio_.gc" height="35" width="100" /></a>
+<a href="https://www.linkedin.com/in/julio-césar-gonçalves-conceição-a945981ba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julio-César-Gonçalves-Conceição" height="30" width="100" /></a>
+<a href="https://instagram.com/julio_.gc" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="julio_.gc" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
