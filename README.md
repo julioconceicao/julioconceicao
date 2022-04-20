@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=julioconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="julioconceicao" /> </p>
 
 <div class="banner"  align="center">
-  <img align="center" alt="bannerJulio" src="https://cdn.discordapp.com/attachments/966117479455809540/966117561542516746/BANNERGITHUB.jpg">
+ <h1><img align="center" alt="bannerJulio" src="https://cdn.discordapp.com/attachments/966117479455809540/966117561542516746/BANNERGITHUB.jpg"></h1>
   </div>
   
   <div class="pitch" align="center">
