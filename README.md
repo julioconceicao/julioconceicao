@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio! <3</h1>
-<h3 align="center">I'm a curious backend/fullstack developer.</h3>
+<h3 align="center">I'm a curious frontend/fullstack developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=julioconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="julioconceicao" /> </p>
 
