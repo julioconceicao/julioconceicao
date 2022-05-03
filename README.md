@@ -22,23 +22,6 @@ Português/English
   
   ##
   
-<div class="social"> 
-  <h3 align="center">Social:</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/julio-césar-gonçalves-conceição-a945981ba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julio-César-Gonçalves-Conceição" height="30" width="105" /></a>
-    <a href="https://instagram.com/julio_.gc" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-        badge&logo=instagram&logoColor=white" alt="julio_.gc" height="30" width="105" /></a>
-  </p>
-</div>
-  
-  ##
-  
-  <div align="center">
-  <a href="https://github.com/julioconceicao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julioconceicao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioconceicao&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  
 <h3 align="center">Skills:</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" width="80" height="30"/> </a> 
@@ -49,6 +32,23 @@ Português/English
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80" height="30"/> </a>
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" width="145" height="30"/> </a>
 </p>
+
+  
+  ##
+  
+  <div align="center">
+  <a href="https://github.com/julioconceicao">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julioconceicao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioconceicao&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div class="social"> 
+  <h3 align="center">Social:</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/julio-césar-gonçalves-conceição-a945981ba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julio-César-Gonçalves-Conceição" height="30" width="105" /></a>
+    <a href="https://instagram.com/julio_.gc" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-        badge&logo=instagram&logoColor=white" alt="julio_.gc" height="30" width="105" /></a>
+  </p>
+</div>  
 
 
   
