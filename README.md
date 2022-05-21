@@ -14,7 +14,7 @@ Português/English
 
 📫 How to reach me **julioconceicao.gtr@gmail.com**
 
-⚡ I'm interested in studying JS web animations.
+⚡ I'm interested in studying Machine Learning with Python.
   
 🎓 Soon I'll start my BA in Cience & Tecnology and BA in Computer Science at UFABC (Universidade Federal do ABC).<br>
 (already enrolled)<br>
