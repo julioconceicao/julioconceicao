@@ -5,10 +5,9 @@
 
 
   
-  <div class="pitch" align="center">
-Português/English
-    
-(speak/read/understand)
+  <div class="pitch">
+-Portuguese/English (speak/read/understand)<br>
+    <br>
   
 🌱 I’m currently learning **C#//.NET//ASPNET//ReactJS**
   
@@ -24,8 +23,8 @@ Português/English
   
   ##
   
-<h3 display="flex" flex-wrap="row" align="center">Skills:</h3>
-<p align="center"> 
+<h3 display="flex" flex-wrap="row">Skills:</h3>
+<p> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" width="80" height="30"/> </a> 
  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotnet" border-radius="10px" width="80" height="30" /> </a> 
    <a href="https://www.heroku.com/products" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" border-radius="10px" width="100" height="30" /> </a> 
@@ -40,15 +39,15 @@ Português/English
   
   ##
   
-  <div align="center">
+  <div>
   <a href="https://github.com/julioconceicao">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julioconceicao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioconceicao&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div class="social"> 
-  <h3 align="center">Social:</h3>
-  <p align="center">
+  <h3>Social:</h3>
+  <p>
     <a href="https://www.linkedin.com/in/juliocesargoncalvesconceicao/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julio-César-Gonçalves-Conceição" height="30" width="105" /></a>
     <a href="https://instagram.com/julio_.gc" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-        badge&logo=instagram&logoColor=white" alt="julio_.gc" height="30" width="105" /></a>
   </p>
