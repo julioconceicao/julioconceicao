@@ -6,14 +6,14 @@
 
   
   <div class="pitch">
--Portuguese/English (speak/read/understand)<br>
+-Portuguese/English (speak/read/understand).<br>
     <br>
   
-🌱 I’m currently learning **C#//.NET//ASPNET//ReactJS**
+🌱 I’m currently learning **C#//.NET//ASPNET//ReactJS**.
   
-💙 Student at **Generation Brasil**
+💙 Student at **Generation Brasil**.
 
-📫 How to reach me **julioconceicao.gtr@gmail.com**
+📫 How to reach me **julioconceicao.gtr@gmail.com**.
 
 ⚡ I'm interested in studying Machine Learning with Python.
   
@@ -34,13 +34,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioconceicao&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div class="social"> 
-  <h3>Social:</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/juliocesargoncalvesconceicao/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julio-César-Gonçalves-Conceição" height="30" width="105" /></a>
-    <a href="https://instagram.com/julio_.gc" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-        badge&logo=instagram&logoColor=white" alt="julio_.gc" height="30" width="105" /></a>
-  </p>
-</div>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dev_juliocon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_juliocon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juliocesargoncalvesconceicao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliocesargoncalvesconceicao" height="30" width="40" /></a>
+<a href="https://instagram.com/julio_.gc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="julio_.gc" height="30" width="40" /></a>
+<a href="https://discord.gg/#0550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0550" height="39" width="44" /></a>
+</p>
 
 
   
