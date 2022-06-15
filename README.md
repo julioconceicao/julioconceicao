@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Julio! <3</h1>
 <h3 align="center">I'm a curious backend/fullstack developer.</h3>
+  
+  <div align="center">
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Julio+Conceição+<3;+Welcome+to+my+Github+profile.;Im+a+curious+Full-stack/+Back-end+dev.;Feel+free+to+contributte+to+my+personal+projects!+)](https://git.io/typing-svg)
+  
+  </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=julioconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="julioconceicao" /> </p>
+  
 
 
   
@@ -28,6 +34,9 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
   
   ##
+  
+  ### 📈 My GH Activity:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=julioconceicao&hide_border=true&theme=redical)
   
   <div>
   <a href="https://github.com/julioconceicao">
