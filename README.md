@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Julio! <3</h1>
-<h3 align="center">I'm a curious backend/fullstack developer.</h3>
-  
-  <div align="center">
+
+ <div align="center">
     
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Julio+Conceição+<3;+Welcome+to+my+Github+profile.;Im+a+curious+Full-stack/+Back-end+dev.;Feel+free+to+contributte+to+my+personal+projects!+)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi!+You+can+call+me+Julio+<3;+Welcome+to+my+Github+profile.;Im+a+curious+Full-stack/+Back-end+dev.;Feel+free+to+contributte+to+my+personal+projects!+)](https://git.io/typing-svg)
   
   </div>
 
   
-
+##
 
   
   <div class="pitch">
