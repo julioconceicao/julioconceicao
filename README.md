@@ -2,14 +2,8 @@
  <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=00C0F7&background=00FF8E00&center=true&multiline=true&width=500&height=150&lines=Hi!!+I'm+Julio+c%3A;And%2C+I'm+a+full-stack%2FBack-end+dev.;Feel+free+to+take+a+look+at+my+repo's!+)](https://git.io/typing-svg)
- 
-  <a href="#" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/966117479455809540/987081018622238720/julinhomander-removebg-preview_1.png" alt="dev_juliocon" height="130" width="110" /></a>
-  </div>
- 
-
 
 ##
-
   
   <div class="pitch">
 -Portuguese/English (speak/read/understand).<br>
