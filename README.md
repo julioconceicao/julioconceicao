@@ -12,7 +12,7 @@
   
 🌱 I’m currently learning **C#//.NET//ASPNET//ReactJS**.
   
-💙 Student at **Generation Brasil**.
+💙 Trained as a fullstack developer by **Generation Brasil**.
 
 📫 How to reach me ***julioconceicao.gtr@gmail.com***.
 
