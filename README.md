@@ -1,7 +1,7 @@
 
  <div align="left">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00C0F7&background=00FF8E00&left=true&multiline=true&width=650&height=140&lines=Hi!!+I'm+Julio+c%3A;And%2C+I'm+a+Full-stack+dev.;Feel+free+to+take+a+look+at+my+repositories!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=F7C300FF&background=00FF8E00&left=true&multiline=true&width=650&height=140&lines=Hi!!+I'm+Julio+c%3A;And%2C+I'm+a+Full-stack/Back-end+dev.;Feel+free+to+take+a+look+at+my+repositories!+)](https://git.io/typing-svg)
  </div>
 
 ##
