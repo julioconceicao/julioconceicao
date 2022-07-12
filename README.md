@@ -5,21 +5,21 @@
  </div>
 
 ##
-  
+
   <div class="pitch" align="left">
--Portuguese/English (speak/read/understand).<br>
-    <br>
   
-🌱 I’m currently learning **C#//.NET//ASPNET//ReactJS**.
+ ♂️ (𝐡𝐞/𝐡𝐢𝐦) 
   
-💙 Trained as a fullstack developer by **Generation Brasil feat. Microsoft**.
+🌱 𝐌𝐲 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: **𝐂# + 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭**.
+  
+💙 𝐓𝐫𝐚𝐢𝐧𝐞𝐝 𝐚𝐬 𝐚 𝐟𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐛𝐲 **𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐁𝐫𝐚𝐬𝐢𝐥** 𝐟𝐞𝐚𝐭. **𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭**.
 
-📫 How to reach me ***julioconceicao.gtr@gmail.com***.
+📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 *𝐣𝐮𝐥𝐢𝐨𝐜𝐨𝐧𝐜𝐞𝐢𝐜𝐚𝐨.𝐠𝐭𝐫@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦*.
 
-⚡ I'm interested in studying API's.
+⚡ 𝐈'𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠: **𝐀𝐏𝐈'𝐬, 𝐔𝐗 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐬𝐨𝐦𝐞 𝐀𝐈 𝐬𝐭𝐮𝐟𝐟**.
   
-🎓 Soon I'll start my BA in Cience & Tecnology and BA in Computer Science at UFABC (Universidade Federal do ABC).<br>
-(already enrolled)<br>
+🎓 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐁𝐀 𝐢𝐧 **𝐂𝐢𝐞𝐧𝐜𝐞 & 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐲** 𝐚𝐭 **𝐔𝐅𝐀𝐁𝐂** (𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐝𝐚𝐝𝐞 𝐅𝐞𝐝𝐞𝐫𝐚𝐥 𝐝𝐨 𝐀𝐁𝐂).
+
  </div>
   
   
