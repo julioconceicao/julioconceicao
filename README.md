@@ -1,11 +1,4 @@
 
- <div align="left">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=F7C300FF&background=00FF8E00&left=true&multiline=true&width=800&height=140&lines=Hi!!+I'm+Julio+c%3A;I'm+a+Backend+Software+Engineer+living+at+Brasil;Feel+free+to+take+a+look+at+my+repositories!+   )](https://git.io/typing-svg)
- </div>
-
-##
-
   <div class="pitch" align="left">
   
  ♂️ (𝐡𝐞/𝐡𝐢𝐦) 
@@ -20,7 +13,7 @@
 
 ⚡ 𝐈'𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠: **𝐀𝐏𝐈'𝐬, 𝐔𝐗 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐬𝐨𝐦𝐞 𝐀𝐈 𝐬𝐭𝐮𝐟𝐟**.
   
-🎓 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐁𝐀 𝐢𝐧 **𝐂𝐢𝐞𝐧𝐜𝐞 & 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐲** 𝐚𝐭 **𝐔𝐅𝐀𝐁𝐂** (𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐝𝐚𝐝𝐞 𝐅𝐞𝐝𝐞𝐫𝐚𝐥 𝐝𝐨 𝐀𝐁𝐂).
+🎓 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐁𝐀 𝐢𝐧 **𝐂𝐢𝐞𝐧𝐜𝐞 & 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐲** 𝐚𝐭 **𝐔𝐅𝐀𝐁𝐂** (𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐝𝐚𝐝𝐞 𝐅𝐞𝐝𝐞𝐫𝐚𝐥 𝐝𝐨 𝐀𝐁𝐂) SP-Brasil.
 
  </div>
   
@@ -28,7 +21,7 @@
   ##
   
   <div align="left">
-<h3 align="left">Tech-skills:</h3>
+<h3 align="left">Hard-skills:</h3>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
