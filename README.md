@@ -2,7 +2,6 @@
   <div class="pitch" align="left">
   (actually using bitbucket)
   
- ♂️ (𝐡𝐞/𝐡𝐢𝐦) 
   
 💻 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯. J𝐫 𝐚𝐭 𝐍𝐨𝐯𝐚𝐇𝐚𝐮𝐬 𝐋𝐓𝐃𝐀.
   
