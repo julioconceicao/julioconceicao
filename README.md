@@ -38,7 +38,7 @@
 
   <div align="left">
   <a href="https://github.com/julioconceicao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julioconceicao&show_icons=true&theme=tokyonight"/>
+  <img src="https://gists-readme.yizack.com/api?user=julioconceicao"/>
 </div>
  
  ##
