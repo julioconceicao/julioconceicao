@@ -5,17 +5,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julioconceicao&color=yellow" alt="Profile views" /> </p>
 
 
-💻 Backend Developer
+💻 2 years working as a Backend Developer
   
 🌱 Currently working in **C#, Asp.Net, Razor Web Apps**.
-  
-💙 Trained as a full-stack (.NET + React) developer by **Generation Brasil** feat. **Microsoft**.
-
-📫 Contact: **julioconceicao.gtr@gmail.com**.
 
 ⚡ I'm actually studying: **Kafka, Messaging, Microservices and Cloud**.
-  
+
 🎓 Studying **System Analysis & Dev.** at **Eniac**.
+  
+💙 Full-stack (.NET + React) developer by **Generation Brasil** feat. **Microsoft**.
+
+📫 Contact: **julioconceicao.gtr@gmail.com**.
+  
 
  
   
@@ -32,6 +33,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
