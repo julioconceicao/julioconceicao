@@ -7,7 +7,7 @@
 
 💻 2 years working as a Backend Developer
   
-🌱 Currently working in **C#, Asp.Net, Razor Web Apps**.
+🌱 Currently working in **C#, Asp.Net and Razor Web Apps**.
 
 ⚡ I'm actually studying: **Kafka, Messaging, Microservices and Cloud**.
 
