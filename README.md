@@ -1,7 +1,5 @@
 
-<a href="#"> <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/julioconceicao/c6ef7758455ae0722c1a34ff14151e8a/raw/4dc6fcc664de19f746742373d5cf72d35d6cf9c8/gitcard.svg"/> </a>
-
-<h1 align="left">Hi! I'm Julio ;)</h1>
+<h1 align="left">Julio Conceição</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julioconceicao&color=yellow" alt="Profile views" /> </p>
 
 
@@ -23,7 +21,7 @@
   
   ##
   
-  <div style=" display: flex" align="left" widht="20px">
+<div style=" display: flex" align="left" widht="20px">
 <h3 align="left">Working with:</h3>
   
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -38,7 +36,7 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
-  </div>
+</div>
  
  
  ##
