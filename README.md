@@ -5,20 +5,16 @@
 
 💻 2 years working as a Backend Developer
   
-🌱 Currently working in **C#, Asp.Net and Razor Web Apps**.
+🌱 Currently working in **C# - .NET**.
 
-⚡ I'm actually studying: **Kafka, Messaging, Microservices and Cloud**.
+⚡ I'm actually studying: **Messaging, Microservices and Cloud**.
 
 🎓 Studying **System Analysis & Dev.** at **Eniac**.
   
 💙 Full-stack (.NET + React) developer by **Generation Brasil** feat. **Microsoft**.
 
 📫 Contact: **julioconceicao.gtr@gmail.com**.
-  
-
- 
-  
-  
+    
   ##
   
 <div style=" display: flex" align="left" widht="20px">
