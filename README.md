@@ -5,7 +5,7 @@
 
 💻 2 years working as a Backend Developer
   
-🌱 Currently working in **C# - .NET**.
+🌱 My current working stack involves *Data Analysis* and *Database Management*.
 
 ⚡ I'm actually studying: **Messaging, Microservices and Cloud**.
 
@@ -45,6 +45,11 @@
 <a href="https://discord.gg/#0550" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="#0550"/>
 </p>
 
+##
+
+<p>
+Jesus te ama.
+</p>
 
   
 
